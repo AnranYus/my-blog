@@ -1,38 +1,38 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "Nothing in here",
   /** your name */
-  author: "Typography",
+  author: "AnranYus",
   /** website description */
-  desc: "Rediscory the beauty of typography",
+  desc: "",
   /** your deployed domain */
-  website: "https://astro-theme-typography.vercel.app/",
+  website: "https://uni.moe/",
   /** your locale */
-  locale: "en-us",
+  locale: "zh-cn",
   /** theme style */
   themeStyle: "light",
   /** your socials */
   socials: [
-    {
-      name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    },
-    {
-      name: "rss",
-      href: "/atom.xml",
-    },
-    {
-      name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    },
-    {
-      name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    }
+    // {
+    //   name: "github",
+    //   href: "https://github.com/moeyua/astro-theme-typography",
+    // },
+    // {
+    //   name: "rss",
+    //   href: "/atom.xml",
+    // },
+    // {
+    //   name: "twitter",
+    //   href: "https://github.com/moeyua/astro-theme-typography",
+    // },
+    // {
+    //   name: "mastodon",
+    //   href: "https://github.com/moeyua/astro-theme-typography",
+    // }
   ],
   /** your header info */
   header: {
-    twitter: "@moeyua13",
+    // twitter: "@moeyua13",
   },
   /** your navigation links */
   navs: [
@@ -55,7 +55,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   ],
   /** your category name mapping, which the `path` will be shown in the url */
   category_map: [
-    { name: "胡适", path: "hu-shi" },
+    // { name: "胡适", path: "hu-shi" },
   ],
   /** your comment provider */
   comments: {
